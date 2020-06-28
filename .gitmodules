@@ -1,0 +1,6 @@
+[submodule "yargs-parser"]
+	path = yargs-parser
+	url = https://github.com/yargs/yargs-parser
+[submodule "PyResume"]
+	path = PyResume
+	url = git@github.com:Mike111177/PyResume.git
